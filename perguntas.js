@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é Reach?',
+    'Reach é um tipo de trapaça para se obter mais distância de blocos'
 )
 
 criaCartao(
